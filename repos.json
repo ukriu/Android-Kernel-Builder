@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "gold",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-      "branch": "gold-s-oss",
+      "repo": "https://github.com/liliumproject/kernel_xiaomi_gold/",
+      "branch": "ursinia",
       "device": "gold"
     },
     "withKernelSU": false,
