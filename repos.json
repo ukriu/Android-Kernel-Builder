@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "gold",
-      "repo": "https://github.com/PQEnablers-Devices/android_kernel_mediatek_5.10",
+      "repo": "https://github.com/ukriu/android_kernel_mediatek_5.10/",
       "branch": "lineage-21",
       "device": "mgki"
     },
