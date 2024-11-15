@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
-      "name": "gold-KernelSU",
+      "name": "gold",
       "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
       "branch": "gold-s-oss",
       "device": "gold"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
           "repo": "https://github.com/LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b",
